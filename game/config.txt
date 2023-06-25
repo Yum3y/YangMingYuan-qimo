@@ -1,0 +1,5 @@
+Game_name:楼梯梦魇;
+Game_key:zzxymy666;
+Package_name:visions556;
+Title_bgm:The Renaissance Revelers - Greensleeves.mp3;
+Title_img:小区内街道 白天_l2.jpg;

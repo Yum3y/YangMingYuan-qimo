@@ -1,0 +1,12 @@
+:我和谢小宝拉着手一起跳了下去失重感惹得我心脏狂跳不由得尖叫出声。;
+changeBg:楼道拐角 (4)_540.jpg -next;
+:眼看着地面离我越来越近我选择闭上了眼睛，但想象中的疼痛感并没有袭来。我缓缓睁开眼发现我和谢小宝还在楼道里;
+changeFigure:我 蹙眉.png -left -next;
+我：:我们回来了？;
+changeFigure: -left -next;
+changeFigure:宝 微笑.png -right -next;
+谢小宝：:好像是这样……;
+changeFigure: -right -next;
+unlockCg:黑暗走廊-干净_l2(1).png;
+bgm:none;
+changeScene:四幕 场景：教室.txt

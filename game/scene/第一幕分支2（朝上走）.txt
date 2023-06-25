@@ -1,0 +1,6 @@
+谢小宝:我们走别理他;
+changeFigure: -right;
+changeFigure:吸血鬼_l2.png -next;
+:礼帽小孩站起来拦住我们的去路。;
+:然后，他再次抬起头来朝我们笑，挥着手比画着，[石头，剪刀，布! ];
+callScene:第二幕 被迫玩游戏.txt

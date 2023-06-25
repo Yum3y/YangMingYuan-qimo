@@ -1,0 +1,7 @@
+changeBg:黑暗走廊-干净_l2(1).png;
+:是平局。;
+:我们又比了一次，这回谢小宝出了石头，我们一下就领先了10阶;
+changeFigure: -next;
+changeFigure: -left -next;
+changeFigure: -right -next;
+callScene:第三幕 2次游戏.txt

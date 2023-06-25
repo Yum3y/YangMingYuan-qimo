@@ -1,0 +1,8 @@
+bgm:神秘钢琴音.mp3;
+unlockBgm:神秘钢琴音.mp3 -name=神秘钢琴音;
+intro:2001年|有一件诡异的事情;
+changeBg:楼道拐角 (4)_540.jpg -next;
+unlockCg:小区内街道 (5)_l2.jpg -name=良夜;
+setAnimation:enter-from-left -target=fig-left -next;
+intro:第一幕  阴暗的楼梯;
+changeScene:第一幕 阴暗楼梯.txt

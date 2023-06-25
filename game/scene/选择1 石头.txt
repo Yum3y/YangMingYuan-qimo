@@ -1,0 +1,6 @@
+changeBg:黑暗走廊-干净_l2(1).png -next;
+角色名，留空以继承上句:赢了，小孩出的剪刀，我们一下子就领先了 10阶，也跟那小孩拉开了好大一块距离。;
+changeFigure: -left -next;
+changeFigure: -next;
+changeFigure: -right -next;
+callScene:第三幕 2次游戏.txt

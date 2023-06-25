@@ -1,0 +1,32 @@
+intro:第二幕     游戏开始;
+changeBg:黑暗走廊-干净_l2(1).png -next;
+changeFigure: -next;
+changeFigure:担心.png -left -next;
+我：:（哭腔）谢小宝，我们是不是撞鬼了？;
+changeFigure: -left -next;
+playEffect:knocking-on-door-6022.mp3 -id=敲门;
+:谢小宝显然也吓着了，但他毕竟是男生，要面子，也比我冷静，他直接回头，去敲身后 305 户的门。;
+changeFigure:宝 蹙眉.png -right -next;
+谢小宝：:救命啊! 有人吗? 救命啊!开门啊! 救救我们!;
+:敲完 305，又去敲 304，303，302，301.....把整个三楼的门敲了个遍可敲了半天，竟然没有一户人家有回应!
+changeFigure: -right -next;
+changeFigure:我 蹙眉.png -left -next;
+我：:王大爷，您在家吗? 我和谢小宝遇到坏人了，求您开门救救我们! ;
+playEffect: -id=敲门;
+changeFigure: -left -next;
+intro:这层楼住了很多老头老太太，基本都退休了，|可中午十二点吃饭的时间，怎么会没有一户在家呢?;
+:平时这个点我们经过楼梯过道，都能看到有人在厨房炒菜做饭可今天走廊里那户人家的厨房却关着灯，黑乎乎的，好像很久没有人住了一样。;
+:与此同时，我突然发现，那个戴礼帽的小孩，已经站在了三楼，离我们只有一步之遥，正缓缓向我们走来。;
+changeFigure:宝 蹙眉.png -next;
+谢小宝:（护着我退后）: 你到底是谁? 想怎么样?;
+changeFigure: -next;
+:小孩不回答，依然是一边笑一边挥舞着拳头说: 石头，剪刀，布!
+changeFigure:我：疑惑.png -left -next;
+ 我: 伏在谢小宝身后，小心翼翼地试探：“你想跟我们玩石头剪刀布?”;
+:小孩突然顿住，满意地朝我们点了点头。;
+changeFigure: -left -next;
+changeFigure:宝 开朗.png -right -next;
+谢小宝：:好，我可以和你玩，谁先到顶算谁赢，赢了你就放我们走，别再纠缠我们，行不行? 
+changeFigure: -right;
+:小孩再次点了点头，算是答应了;
+callScene:第三幕 开始游戏.txt

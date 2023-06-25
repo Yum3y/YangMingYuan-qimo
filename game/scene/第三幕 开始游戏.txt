@@ -1,0 +1,8 @@
+changeBg:黑暗走廊-干净_l2(1).png -next;
+changeFigure:吸血鬼_l2.png -left -next;
+changeFigure:选择立绘文件 -next;
+changeFigure:我 怒目.png -right -next;
+:我站在谢小宝身后，跟谢小宝算一帮，由谢小宝出拳，跟礼,帽小孩玩。
+第一局，你出？;
+changeBg:拳头_l2.png -next;
+choose:石头:选择1 石头.txt|剪刀:选择1 剪刀.txt|布:选择1 布.txt;

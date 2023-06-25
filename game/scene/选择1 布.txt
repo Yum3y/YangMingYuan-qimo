@@ -1,0 +1,8 @@
+changeBg:黑暗走廊-干净_l2(1).png;
+:输了，礼帽男孩裂开嘴笑了笑往上走了两个阶梯。;
+changeFigure: -next;
+changeFigure: -right -next;
+changeFigure: -left -next;
+changeFigure:担心.png -right -next;
+我:没事，就两个而已我们还有机会。;
+callScene:第三幕 2次游戏.txt
